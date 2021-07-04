@@ -15,6 +15,6 @@ spec:
       spec:
         containers:
         - name: conversao
-          image: palomss/api-conversao:v1
+          image: bisnogo/api-conversao:v1
           ports:
            - containerPort: 80
